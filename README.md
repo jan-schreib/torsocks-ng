@@ -9,4 +9,4 @@ make
 doas make install
 ```
 
-License: ISC
+To see the license look at the source code.
